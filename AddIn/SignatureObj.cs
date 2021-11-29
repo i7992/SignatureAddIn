@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*работа с планшетом без использования формы
+ * 
+ * 
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
